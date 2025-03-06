@@ -1,0 +1,1 @@
+import{t as e,a as t}from"../chunks/801uHWRX.js";import"../chunks/YQU9XEGZ.js";import{n as p}from"../chunks/B8kfd-UI.js";var r=e("<h1>Welcome</h1> <p>calendar. hello?</p>",1);function c(a){var o=r();p(2),t(a,o)}export{c as component};
